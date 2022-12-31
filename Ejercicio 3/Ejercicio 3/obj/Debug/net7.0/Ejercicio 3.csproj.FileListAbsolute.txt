@@ -1,0 +1,15 @@
+D:\Bootcamp Devlights\guia de ejercicio 3\Ejercicio 3\Ejercicio 3\bin\Debug\net7.0\Ejercicio 3.exe
+D:\Bootcamp Devlights\guia de ejercicio 3\Ejercicio 3\Ejercicio 3\bin\Debug\net7.0\Ejercicio 3.deps.json
+D:\Bootcamp Devlights\guia de ejercicio 3\Ejercicio 3\Ejercicio 3\bin\Debug\net7.0\Ejercicio 3.runtimeconfig.json
+D:\Bootcamp Devlights\guia de ejercicio 3\Ejercicio 3\Ejercicio 3\bin\Debug\net7.0\Ejercicio 3.dll
+D:\Bootcamp Devlights\guia de ejercicio 3\Ejercicio 3\Ejercicio 3\bin\Debug\net7.0\Ejercicio 3.pdb
+D:\Bootcamp Devlights\guia de ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\Ejercicio 3.csproj.AssemblyReference.cache
+D:\Bootcamp Devlights\guia de ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\Ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp Devlights\guia de ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\Ejercicio 3.AssemblyInfoInputs.cache
+D:\Bootcamp Devlights\guia de ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\Ejercicio 3.AssemblyInfo.cs
+D:\Bootcamp Devlights\guia de ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\Ejercicio 3.csproj.CoreCompileInputs.cache
+D:\Bootcamp Devlights\guia de ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\Ejercicio 3.dll
+D:\Bootcamp Devlights\guia de ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\refint\Ejercicio 3.dll
+D:\Bootcamp Devlights\guia de ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\Ejercicio 3.pdb
+D:\Bootcamp Devlights\guia de ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\Ejercicio 3.genruntimeconfig.cache
+D:\Bootcamp Devlights\guia de ejercicio 3\Ejercicio 3\Ejercicio 3\obj\Debug\net7.0\ref\Ejercicio 3.dll
